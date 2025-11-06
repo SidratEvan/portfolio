@@ -1,7 +1,7 @@
 # portfolio
 My personal projects and portfolio for co-op/internships
 
-#  Hi, I'm Sidrat Evan  
+#  Hi, I'm SK Sidratul Islam Priyo 
 
 3rd-year Computer Science student (Psychology minor) @ University of Saskatchewan  
 Skilled in Java, C, Data Structures, and Algorithms  
